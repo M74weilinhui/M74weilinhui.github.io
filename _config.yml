@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Linhui Wei(魏琳慧)"
-description              : "PhD student \n Photograher (Fujifilm Owner) \n ESFP \n I love the world"
+description              : "PhD student | Photograher (Fujifilm Owner) | ESFP"
 repository               : "M74weilinhui/M74weilinhui.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ google_scholar_stats_use_cdn : true
 author:
   name             : "Linhui (魏琳慧)"
   avatar           : "images/linhui_profile.jpeg"
-  bio              : "BUPT"
+  bio              : "I love the world"
   location         : "Beijing"
   employer         :
   pubmed           : 

@@ -1,5 +1,5 @@
 # 🙋‍♀️ About Me
-I am now a 4th PhD student in [School of Artificial Intelligence, Beijing University of Posts and Telecommunications (北京邮电大学人工智能学院)](https://www.bupt.edu.cn/). 
+I am now a 4th year PhD student in [School of Artificial Intelligence, Beijing University of Posts and Telecommunications (北京邮电大学人工智能学院)](https://www.bupt.edu.cn/). 
 
 I graduated from [School of Information Communication Engineering, Beijing Information Science and Technology University (北京信息科技大学信息与通信工程学院)](https://www.bistu.edu.cn/) with a bachelor's degree in 2018.
 
