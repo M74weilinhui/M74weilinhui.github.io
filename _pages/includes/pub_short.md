@@ -1,7 +1,7 @@
 
 # 💻 Selected Research Papers
 
-My full paper list is shown at [my CV](https://drive.google.com/file/d/1Xi8Qc6Z0ag7AEUjs3gmogBLV0ExUZvak/view).
+If you are interested about me, please download [my CV](https://drive.google.com/file/d/1Xi8Qc6Z0ag7AEUjs3gmogBLV0ExUZvak/view).
 
 #### 🎙 Space-air-ground Integrated Network
 - ``ICC Workshops 2024`` [Towards Efficient Traffic Engineering via Distributed Optimization in Large-Scale LEO Constellation](), **Linhui Wei**, Tien-Thanh Le, Yusheng Ji, Mingqian Wang, Yu Liu, Yumei Wang, John C.S. Lui.
