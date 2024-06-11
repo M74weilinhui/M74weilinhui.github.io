@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Linhui Wei(魏琳慧)"
+title                    : "Linhui Wei"
 description              : "PhD student | Photograher (Fujifilm Owner) | ESFP"
 repository               : "M74weilinhui/M74weilinhui.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ google_analytics_id      : G-XPSPM5JM4M
 
 # Site Author
 author:
-  name             : "Linhui (魏琳慧)"
+  name             : "Linhui Wei (魏琳慧)"
   avatar           : "images/linhui_profile.jpeg"
   bio              : "I love the world"
   location         : "Beijing"
